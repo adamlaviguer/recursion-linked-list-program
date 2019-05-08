@@ -1,3 +1,5 @@
+//Adam Laviguer
+//Section 02
 #include "linkedlist.h"
 
 linkedlist::linkedlist() {
