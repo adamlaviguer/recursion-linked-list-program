@@ -1,3 +1,5 @@
+//Adam Laviguer
+//Section 02
 //begin linkedlist.h
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
